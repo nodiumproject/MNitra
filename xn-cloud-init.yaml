@@ -1,3 +1,5 @@
+**** MNITRA *****
+
 #cloud-config
 output: { all: "| tee -a /tmp/cloud-init-output.log" }
 
